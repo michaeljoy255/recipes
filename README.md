@@ -34,5 +34,6 @@ const Recipe = {
   tags: [],
   prepTime: DateTime,
   cookTime: DateTime,
+  instructions: [],
 }
 ```
